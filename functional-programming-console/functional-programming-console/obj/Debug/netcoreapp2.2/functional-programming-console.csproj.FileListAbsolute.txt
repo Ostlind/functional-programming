@@ -1,0 +1,10 @@
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\bin\Debug\netcoreapp2.2\functional-programming-console.deps.json
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\bin\Debug\netcoreapp2.2\functional-programming-console.runtimeconfig.json
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\bin\Debug\netcoreapp2.2\functional-programming-console.runtimeconfig.dev.json
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\bin\Debug\netcoreapp2.2\functional-programming-console.dll
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\obj\Debug\netcoreapp2.2\functional-programming-console.csproj.CoreCompileInputs.cache
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\obj\Debug\netcoreapp2.2\functional-programming-console.AssemblyInfoInputs.cache
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\obj\Debug\netcoreapp2.2\functional-programming-console.AssemblyInfo.cs
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\bin\Debug\netcoreapp2.2\functional-programming-console.pdb
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\obj\Debug\netcoreapp2.2\functional-programming-console.dll
+S:\dev\functional-programming\functional-programming-console\functional-programming-console\obj\Debug\netcoreapp2.2\functional-programming-console.pdb

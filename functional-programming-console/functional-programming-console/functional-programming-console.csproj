@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>functional_programming_console</RootNamespace>
+    <StartupObject>functional_programming_console.Program</StartupObject>
+    <LangVersion>8.0</LangVersion>
+    <NullableReferenceTypes>true</NullableReferenceTypes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Layumba.Functional" Version="0.9.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="extensions\" />
+  </ItemGroup>
+
+</Project>
