@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\dev\\functional-programming\\visitor-pattern-project\\src\\app\\app.fsproj": {}
+  },
+  "projects": {
+    "S:\\dev\\functional-programming\\visitor-pattern-project\\src\\app\\app.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\dev\\functional-programming\\visitor-pattern-project\\src\\app\\app.fsproj",
+        "projectName": "app",
+        "projectPath": "S:\\dev\\functional-programming\\visitor-pattern-project\\src\\app\\app.fsproj",
+        "packagesPath": "C:\\Users\\A501205\\.nuget\\packages\\",
+        "outputPath": "S:\\dev\\functional-programming\\visitor-pattern-project\\src\\app\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A501205\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/aad-clients-nightly/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
